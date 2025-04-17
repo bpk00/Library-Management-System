@@ -1,0 +1,10 @@
+# Rename this file as config.properties
+
+# MySQL Database Connection Configuration
+db.url = jdbc:mysql://<host>:<port>/<database>  # eg: jdbc:mysql://localhost:3306/librarysystem
+db.username = your_mysql_username
+db.password = your_mysql_password
+
+# config.properties - for Login to the System
+sys.username=your_username_for_system  # Use any username as your preferences
+sys.password=your_password_for_system  # Use any password as your preferences
